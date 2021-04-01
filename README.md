@@ -1,7 +1,7 @@
 # ECE555 Advanced Topics In Computer Networks Team project
 
 
-#### FM station and receiver using GNU radio \\
+#### FM station and receiver using GNU radio
 >  The objective of our project was to create an FM station and an FM receiver using as input 2 Adalm Pluto SDR devices. Also, we had to be able to decode the FM RDS packets.
 
 #### Created by:<br />
